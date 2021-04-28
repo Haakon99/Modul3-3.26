@@ -2,7 +2,7 @@
 
 Henta insirasjon fra annen code på nett.
 
-Fikk en del error da jeg prøvde å lage koden, men fikk fikset det ved å søke på www. Grunnan var at jeg ikke hadde inkuldert pakker
+Fikk en del error da jeg prøvde å lage koden, men fikk fikset det ved å søke på www. Grunnen var at jeg ikke hadde inkuldert pakker
 
 Git clone url, trenger ikke å kompliere.
 
